@@ -7,7 +7,7 @@
  ### Github link
  ['https://github.com/sejalpatil8088/React-project1']
  
- #project2
+ # project2
  ## Rock Paper Scissor Game
  ### Live Link
  ["https://incandescent-chimera-7bb12c.netlify.app/"]
