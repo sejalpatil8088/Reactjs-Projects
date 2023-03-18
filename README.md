@@ -7,6 +7,13 @@
  ### Github link
  ['https://github.com/sejalpatil8088/React-project1']
  
+ #project2
+ ## Rock Paper Scissor Game
+ ### Live Link
+ ["https://incandescent-chimera-7bb12c.netlify.app/"]
+ ### Github Link
+ ["https://github.com/sejalpatil8088/React-P2"]
+ 
  # project3
  ## The Meal DB
  ### Live Link
